@@ -9,4 +9,6 @@ Eigenvalue = amount of variation explained by a component
 plink_results.imiss missingness per **individual** (sample)  
 plink_results.lmiss missingness per **locus** (SNP)
 
+FID Family ID  
+IID Individual ID
 
