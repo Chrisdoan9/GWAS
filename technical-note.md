@@ -12,3 +12,10 @@ plink_results.lmiss missingness per **locus** (SNP)
 FID Family ID  
 IID Individual ID
 
+| **F value (roughly)** | **Likely sex genetically**         |
+|-----------------------|------------------------------------|
+| > 0.8                 | Likely male                        |
+| < 0.2                 | Likely female                      |
+| 0.2–0.8               | Ambiguous / potential error        |
+
+**inbreeding coefficient** comes from population genetics
